@@ -41,8 +41,8 @@
 #define DEF_WLAN_5G_SSID	"Mobile_WiFi_5G"
 #define DEF_WLAN_2G_GSSID	"WiFi_GUEST"
 #define DEF_WLAN_5G_GSSID	"WiFi_GUEST_5G"
-#define DEF_WLAN_2G_PSK		"zhendemeiyoumima"
-#define DEF_WLAN_5G_PSK		"zhendemeiyoumima"
+#define DEF_WLAN_2G_PSK		"1234567890"
+#define DEF_WLAN_5G_PSK		"1234567890"
 
 #define DEF_ROOT_PASSWORD	"admin"
 #define DEF_SMB_WORKGROUP	"WORKGROUP"
